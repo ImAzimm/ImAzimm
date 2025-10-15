@@ -50,8 +50,7 @@ Here’s an image that represents me:
 
 ## 📫 Connect with Me
 
-- 🌐 [LinkedIn](https://www.linkedin.com)  
-- 📧 Email: *your.email@example.com*  
+- 📧 Email: *aabdulazim758@gmail.com*  
 - 🧠 Motto: *"Keep learning, keep building, keep growing."*
 
 ---
