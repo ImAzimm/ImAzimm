@@ -3,6 +3,8 @@
 Welcome to my GitHub profile!  
 I'm a **Software Engineering student** who’s passionate about technology, creativity, and using code to build meaningful solutions.
 
+![My Image](https://t4.ftcdn.net/jpg/01/96/63/77/240_F_196637738_JddWJszm0zDOWFvldat1rOCEawn7q4rz.jpg)
+
 ---
 
 ## 🎯 About Me
